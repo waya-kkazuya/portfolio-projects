@@ -1,6 +1,9 @@
 # ポートフォリオ一覧
 
-未経験からWebエンジニアを目指して制作したポートフォリオアプリをまとめています。  
+- 未経験からWebエンジニアを目指して制作したポートフォリオアプリをまとめています
+- [「waya」(Xアカウント: @waya_dev)」](https://x.com/waya_dev)によって作成されました
+
+---
 
 ## 無限レコ（おすすめベスト3投稿アプリ）
 ![無限レコ](./public/images/mugen_reco_image.png)
@@ -10,10 +13,10 @@
 - **主な機能**:  
   投稿 / コメント / いいね / 認証 / 無限スクロール  
 - **GitHubリポジトリ**:  
-  [→ https://github.com/yourname/infinite-reco-portfolio](https://github.com/yourname/infinite-reco-portfolio)
+  [→ https://github.com/yourname/infinite-reco-portfolio](https://github.com/waya-kkazuya/infinite-reco-portfolio)
 
 
-
+---
 
 ## ItemNavi（備品管理システム）
 ![ItemNavi](./public/images/itemnavi_image.png)
@@ -25,8 +28,7 @@
 - **GitHubリポジトリ**:  
   [→ https://github.com/waya-kkazuya/EMS](https://github.com/waya-kkazuya/EMS)
 
-
-
+---
 
 ## 開発者
 - waya
