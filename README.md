@@ -13,7 +13,7 @@
 - **主な機能**:  
   投稿 / コメント / いいね / 認証 / 無限スクロール  
 - **GitHubリポジトリ**:  
-  [→ https://github.com/yourname/infinite-reco-portfolio](https://github.com/waya-kkazuya/infinite-reco-portfolio)
+  [→ https://github.com/waya-kkazuya/mugen-reco-portfolio](https://github.com/waya-kkazuya/mugen-reco-portfolio)
 
 
 ---
