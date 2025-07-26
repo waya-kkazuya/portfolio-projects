@@ -26,7 +26,7 @@
 - **主な機能**:  
   備品管理 / 備品点検・廃棄 / 消耗品入出庫 / 消耗品在庫履歴表示 / 備品リクエスト
 - **GitHubリポジトリ**:  
-  [→ https://github.com/waya-kkazuya/EMS](https://github.com/waya-kkazuya/EMS)
+  [→ https://github.com/waya-kkazuya/item-navi](https://github.com/waya-kkazuya/item-navi)
 
 ---
 
